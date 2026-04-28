@@ -1,0 +1,19 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* Your reusable UI styles */
+/* .card {
+  @apply bg-white rounded-2xl shadow-md p-4;
+}
+.sidebar-gradient {
+  background: linear-gradient(180deg, #0f172a, #312e81);
+}
+.btn-primary {
+  @apply bg-gradient-to-r from-purple-500 to-indigo-500 text-white px-4 py-2 rounded-xl;
+} */
+
+body {
+  background: black;
+  color: white;
+}
